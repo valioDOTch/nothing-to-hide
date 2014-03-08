@@ -99,6 +99,16 @@ a {
 	top:450px;
 }
 
+#credix.button{
+	top:505px;
+	height:40px;
+}
+#credix.button:hover{
+	padding: 5px 0;
+	top:500px;
+}
+
+
 /*#footer {
 	width:100%;
 	font-size:30px; letter-spacing:2px; line-height:35px;

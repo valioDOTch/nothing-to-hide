@@ -6,6 +6,7 @@
 		<script src="../jquery.min.js"></script>
 		<!--i18next for translation to other languages -->
 		<script src="../i18next.min.js"></script>
+		<script src = "http://www.youtube.com/player_api"></script>
 		<script src="../translationinit.js"></script>
 		<script>
 			translationinit( function() {
@@ -38,6 +39,7 @@
 			<div id="fund" class="button" onclick="window.location.hash='fund'" ><span data-i18n="menu.support" class="jtextfill">SUPPORT & SHARE</span></div>
 			<div id="uncopyright" class="button" onclick="window.location.hash='uncopyright'"><span data-i18n="menu.uncopyright" class="jtextfill">UNCOPYRIGHT</span></div>
 			<div id="credits" class="button" onclick="window.location.hash='credits'"><span data-i18n="menu.credits" class="jtextfill">CREDITS</span></div>
+			<div id="credix" class="button" onclick="window.location.hash='credix'"><span xdata-i18n="menu.credits" class="jtextfill">EU-Wahlen</span></div>
 
 			<iframe class="link" id="campaign_embed" src="http://back.nothingtohide.cc/embed" scrolling="no"></iframe>
 
@@ -104,9 +106,10 @@
 					
 				</div>
 				<div class="dialog" id="dialog_credits">
-
+				
 					<h1 data-i18n="dialog.credits.withthehelp">WITH THE HELP OF HUNDREDS</h1>
 					
+					<b>This is a version of the game that was translated and adapted by Pat M&auml;chler for the pirate party movement. Below are the original credits of the original creators to which most of the kudos belongs (but not the pirate party stuff).</b><br>
 					<a href="https://twitter.com/ncasenmare" target="_blank">NCASE</a> - Developer, designer, artist
 					<br>
 					<a href="https://www.facebook.com/HalcyonicFalconX" target="_blank">HalcyonicFalconX</a> - Musician
@@ -161,7 +164,49 @@
 						<br>
 						You, aww aren't I such a sweetheart.
 					</span>
+				
+				</div>
 
+<div class="dialog" id="dialog_credix">
+
+					<h1 xdata-i18n="dialog.credits.withthehelp">Piratenpartei im EU-Parlament</h1>
+					
+					Da die <a href=' https://www.piratenpartei.de/2014/02/26/fall-der-drei-prozent-sperrklause-grosser-schritt-zu-mehr-demokratie/'>3%-H&uuml;rde f&uuml;r die Wahlen ins Europaparlament gefallen</a> sind, wird die Piratenpartei wohl auch Sitze bei den n&auml;chsten Wahlen gewinnen.
+
+<script>
+//onYouTubePlayerAPIReady
+var player;
+var xfloaded;
+  
+
+</script>
+
+					<span>
+					<iframe id="vidplayer" width="705" height="397" xsrc="//www.youtube.com/embed/qxAMYlrEUiU" frameborder="0" onload="xfloaded()" allowfullscreen></iframe>
+<script>
+	xfloaded= function (){
+    player = new YT.Player('vidplayer', {
+      videoId: 'qxAMYlrEUiU',
+      events:
+       {      
+        'onStateChange': function (event)
+            {
+				console.log("onstatechange");
+            if (event.data == YT.PlayerState.PLAYING)                                    
+				{ createjs.Sound.stop(); console.log("stop");  }
+            else if (event.data == YT.PlayerState.PAUSED)
+               { createjs.Sound.play("big_brother",null,0,0,-1,1,0); }
+            else 
+            console.log("Buffering/Video Ended");                
+            //alert ("Buffering/Video Ended");                
+                         
+             }
+       }
+            
+    });
+  }
+</script>
+					</span>
 				</div>
 
 			</div>
