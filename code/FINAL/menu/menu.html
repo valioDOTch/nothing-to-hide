@@ -171,41 +171,67 @@
 
 					<h1 xdata-i18n="dialog.credits.withthehelp">Piratenpartei im EU-Parlament</h1>
 					
-					Da die <a href=' https://www.piratenpartei.de/2014/02/26/fall-der-drei-prozent-sperrklause-grosser-schritt-zu-mehr-demokratie/'>3%-H&uuml;rde f&uuml;r die Wahlen ins Europaparlament gefallen</a> sind, wird die Piratenpartei wohl auch Sitze bei den n&auml;chsten Wahlen gewinnen.
+					Da die <a target='_blank' href=' https://www.piratenpartei.de/2014/02/26/fall-der-drei-prozent-sperrklause-grosser-schritt-zu-mehr-demokratie/'>3%-H&uuml;rde f&uuml;r die Wahlen ins Europaparlament gefallen</a> sind, wird die Piratenpartei wohl auch Sitze bei den n&auml;chsten Wahlen gewinnen.
 
 <script>
-//onYouTubePlayerAPIReady
 var player;
-var xfloaded;
-  
+var READY_TO_PLAY = false;
+var QUEUED_PLAY = false;
+function playVideo(){
+
+	if(READY_TO_PLAY){
+		player.playVideo();
+	}else{
+		QUEUED_PLAY = true;
+	}
+
+	var vid = document.getElementById("vidplayer");
+	vid.style.display = "block";
+	//STOP_DRAWING = true;
+	createjs.Sound.stop(); console.log("stop music");
+}
+
+window.onload = function(){
+
+	// Loads the IFrame Player API code asynchronously.
+	var tag = document.createElement('script');
+	tag.src = "https://www.youtube.com/iframe_api";
+	var firstScriptTag = document.getElementsByTagName('script')[0];
+	firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+};
+// Creates an <iframe> (and YouTube player) after the API code downloads.
+function onYouTubeIframeAPIReady() {
+	player = new YT.Player('vidplayer',{
+		width:'800', height:'350',
+		videoId:'qxAMYlrEUiU',
+		playerVars:{ rel:0, showinfo:0, autohide:1 },
+		events:{ 'onReady':onPlayerReady, 'onStateChange':onStateChange }
+	});
+}
+function onPlayerReady(event) {
+	READY_TO_PLAY = true;
+	if(QUEUED_PLAY){
+		player.playVideo();
+	}
+}
+function onStateChange(event){
+	if(event.data===0){
+		var vid = document.getElementById("vidplayer");
+		vid.style.display = "none";
+		STOP_DRAWING = false;
+		draw();
+	}
+}
 
 </script>
 
 					<span>
-					<iframe id="vidplayer" width="705" height="397" xsrc="//www.youtube.com/embed/qxAMYlrEUiU" frameborder="0" onload="xfloaded()" allowfullscreen></iframe>
-<script>
-	xfloaded= function (){
-    player = new YT.Player('vidplayer', {
-      videoId: 'qxAMYlrEUiU',
-      events:
-       {      
-        'onStateChange': function (event)
-            {
-				console.log("onstatechange");
-            if (event.data == YT.PlayerState.PLAYING)                                    
-				{ createjs.Sound.stop(); console.log("stop");  }
-            else if (event.data == YT.PlayerState.PAUSED)
-               { createjs.Sound.play("big_brother",null,0,0,-1,1,0); }
-            else 
-            console.log("Buffering/Video Ended");                
-            //alert ("Buffering/Video Ended");                
-                         
-             }
-       }
-            
-    });
-  }
-</script>
+					<div id="video_container">
+						<canvas id="video_meta" width="705" height="397"></canvas>
+						<div id="video_play" onclick="playVideo()"></div>
+						<iframe id="vidplayer" frameborder="0" allowfullscreen="1" title="YouTube video player" width="705" height="397" src="https://www.youtube.com/embed/qxAMYlrEUiU?rel=0&amp;showinfo=0&amp;autohide=1&amp;enablejsapi=1&amp;iv_load_policy=3"></iframe>
+					</div>
 					</span>
 				</div>
 
