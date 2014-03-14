@@ -1,5 +1,5 @@
 {
-	"translator": "Alex Talker",
+	"translator": "onkrot",
 	"app": {
 		"name": "Nothing To Hide",
 		"subtitle": "анти-стелс игра, где вы сами себе сторожевой.",
@@ -65,7 +65,7 @@
 	},
 	"game": {
 		"general":{ 
-			"panopticonpaused": "PANOPTICON PAUSED",
+			"panopticonpaused": "ПАНОПИКУМ ПРИОСТАНОВЛЕН",
 			"levelselect": "Выбор уровня:",
 			"intro": "ВСТУПЛЕНИЕ",
 			"ending": "ОКОНЧАНИЕ",
@@ -91,7 +91,7 @@
 				"Поппи?",
 				"Эй дорогая. Пожалуйста, не будь грустной.",
 				"Это сильно бьёт по моей популярности.",
-				"Прихоит первый не засекреченный избирательный бюллетень. Это очень важно для Папиной карьеры, и мне нужно чтобы ты выкладывала больше своих весёлых фотографий на Стену. Как минимум 400 в день, хорошо?",
+				"Прихоит первый открытый избирательный бюллетень. Это очень важно для Папиной карьеры, и мне нужно чтобы ты выкладывала больше своих весёлых фотографий на Стену. Как минимум 400 в день, хорошо?",
 				"Пожалуйста, Поппи. Я не хочу чтобы избиратели думали, что я плохой отец.",
 				"Отлично, спокойной ночи! <span>#ПапаДочьМомент</span>",
 				"Я... Я должна выбраться отсюда...",
@@ -155,191 +155,191 @@
 	"images": {
 		"general":{
 			"controls": {
-				"scrolldown": "SCROLL DOWN",
-				"mouse": "MOUSE",
-				"keys": "KEYS"
+				"scrolldown": "ПРОКРУТИТЕ ВНИЗ",
+				"mouse": "МЫШЬ",
+				"keys": "КЛАВИШИ"
 			},
-			"or": "OR",
-			"tweet": "TWEET",
-			"share": "SHARE",
-			"THEWALL": "THE WALL"
+			"or": "ИЛИ",
+			"tweet": "ТВИТ",
+			"share": "ПОДЕЛИТЬСЯ",
+			"THEWALL": "СТЕНА"
 		},
 		"propaganda": {
 			"dont_help_hiders": {
-				"donthelp1": "DON'T HELP",
-				"donthelp2": "HIDERS",
-				"fourthAmendment1": "but the fourth",
-				"fourthAmendment2": "amendment",
-				"fourthAmendment3": "protects"
+				"donthelp1": "НЕ ПОМОГАЙ",
+				"donthelp2": "ПРЯТАЮЩИМСЯ",
+				"fourthAmendment1": "но четвёртая",
+				"fourthAmendment2": "поправка",
+				"fourthAmendment3": "защищает"
 			},
 			"error": {
-				"ERROR": "ERROR:",
-				"AudienceNotFound1": "`TARGETED_AUDIENCE`",
-				"AudienceNotFound2": "CANNOT BE FOUND",
-				"MeantForNobody1": "&gt; this wall is meant",
-				"MeantForNobody2": "&gt; for NOBODY"
+				"ERROR": "ОШИБКА:",
+				"AudienceNotFound1": "`ЦЕЛЕВАЯ_АУДИТОРИЯ`",
+				"AudienceNotFound2": "НЕ НАЙДЕНА",
+				"MeantForNobody1": "&gt; эта СТЕНА предназначена",
+				"MeantForNobody2": "&gt; для НИКОГО"
 			},
 			"intro_pics": {
-				"posted4DaysAgo": "posted 4 days ago",
-				"Message1": "Thank you for 4 billion followers! I'm so",
-				"Message2": "happy! Vote for my dad in the un-secret",
-				"Message3": "ballot! So happy. Haha! Ha. ha..."
+				"posted4DaysAgo": "добавлено 4 дня назад",
+				"Message1": "Спасибо за 4 миллиарда подписчиков! Я так",
+				"Message2": "счастлива! Голосуйте за моего папу в открытой",
+				"Message3": "бюллетени! Так счастлива. Хаха! Ха. ха..."
 			},
 			"needs_dummy": {
-				"YesMySignal1": "YES, MY SIGNAL",
-				"YesMySignal2": "DEPLOYS",
-				"YesMySignal3": "FOR ALL THE",
-				"YesMySignal4": "GIRLS &amp; BOYS!"
+				"YesMySignal1": "ДА, МОЙ СИГНАЛ",
+				"YesMySignal2": "ПРИМЕНИМ",
+				"YesMySignal3": "ДЛЯ ВСЕХ",
+				"YesMySignal4": "ДЕВОЧЕК &amp; МАЛЬЧИКОВ!"
 			},
 			"nobody_messes": {
-				"posted4DaysAgo": "posted 4 days ago",
-				"THEWALL": "THE WALL",
-				"gotRidSecretBallot1": "Aw yiss, 'bout time we got rid of the secret ballot!",
-				"gotRidSecretBallot2": "Let's expose all those un-Americans who have",
-				"gotRidSecretBallot3": "something to hide. #votegardner",
-				"NobodyMessesWith1": "Nobody messes with the Ministry!",
-				"NobodyMessesWith2": "Nobody cares for privacy!",
-				"NobodyMessesWith3": "Nobody! ^_^"
+				"posted4DaysAgo": "добавлено 4 дня назад",
+				"THEWALL": "СТЕНА",
+				"gotRidSecretBallot1": "О, мы избавились от тайного голосования!",
+				"gotRidSecretBallot2": "Давайте раскроем всех не американцев, которым есть",
+				"gotRidSecretBallot3": "что скрывать. #голосуйгарднер",
+				"NobodyMessesWith1": "Никто не портит отношения с Министерством!",
+				"NobodyMessesWith2": "Никто не бесокоится о приватности!",
+				"NobodyMessesWith3": "Никто! ^_^"
 			},
 			"nobody_the_wall": {
-				"THEWALL": "THE WALL"
+				"THEWALL": "СТЕНА"
 			},
 			"nobody_the_wall_2": {
-				"THEWALL": " THE WALL THE WALL THE WALL THE WALL THE WALL THE WALL THE WALL"
+				"THEWALL": " СТЕНА СТЕНА СТЕНА СТЕНА СТЕНА СТЕНА СТЕНА"
 			},
 			"pickup_gardner": {
-				"ProtectorPatriotPop": "PROTECTOR. PATRIOT. POP.",
-				"VoteGardner1": "WITH YOUR UN-SECRET BALLOT",
-				"VoteGardner2": "VOTE GARDNER"
+				"ProtectorPatriotPop": "ЗАЩИТНИК. ПАТРИОТ. ПОПУЛЯРНЫЙ.",
+				"VoteGardner1": "НА ВАШИХ НЕ СЕКРЕТНЫХ БЮЛЛЕТЕНЯХ",
+				"VoteGardner2": "ЗА ГАРДНЕРА"
 			},
 			"pickup_lookout": {
-				"LookOut1": "LOOK OUT FOR",
-				"LookOut2": "YOURSELF"
+				"LookOut1": "ОБРАТИТЕ ВНИМАНИЕ НА",
+				"LookOut2": "СЕБЯ"
 			},
 			"puzzle_mock": {
-				"RememberToBe": "REMEMBER TO BE",
-				"POPULAR": "POPULAR",
-				"PRETTY": "PRETTY",
-				"PATRIOTIC": "PATRIOTIC",
-				"HowSelfWorth1": "HOW ELSE CAN YOU",
-				"HowSelfWorth2": "MEASURE YOUR",
-				"HowSelfWorth3": "SELF-WORTH?"
+				"RememberToBe": "ПОМНИТЕ, ЧТОБЫ БЫТЬ",
+				"POPULAR": "ПОПУЛЯРНЫМ",
+				"PRETTY": "ХОРОШИМ",
+				"PATRIOTIC": "ПАТРИОТИЧНЫМ",
+				"HowSelfWorth1": "КАК ЕЩЁ МОЖЕТЕ ВЫ",
+				"HowSelfWorth2": "ИЗМЕРИТЬ ВАШУ",
+				"HowSelfWorth3": "САМООЦЕНКУ?"
 			},
 			"puzzle_psa": {
-				"PatriotPSA1": "PATRIOT SERVICE",
-				"PatriotPSA2": "ANOUNCEMENT",
+				"PatriotPSA1": "ПАТРИОТ СЕРВИС",
+				"PatriotPSA2": "ПРЕДСТАВЛЯЕТ",
 				
-				"WatchWhatYouSay1": "WATCH",
-				"WatchWhatYouSay2": "WHAT YOU",
-				"WatchWhatYouSay3": "SAY",
+				"WatchWhatYouSay1": "СЛЕДИ",
+				"WatchWhatYouSay2": "ЗА ТЕМ, ЧТО",
+				"WatchWhatYouSay3": "ГОВОРИШЬ",
 				
-				"WatchWhatYouHear1": "WATCH",
-				"WatchWhatYouHear2": "WHAT YOU",
-				"WatchWhatYouHear3": "HEAR",
+				"WatchWhatYouHear1": "СЛЕДИ",
+				"WatchWhatYouHear2": "ЗА ТЕМ, ЧТО",
+				"WatchWhatYouHear3": "СЛЫШИШЬ",
 
-				"WatchWhatYouWatch1": "WATCH",
-				"WatchWhatYouWatch2": "WHAT YOU",
-				"WatchWhatYouWatch3": "WATCH"
+				"WatchWhatYouWatch1": "СЛЕДИ",
+				"WatchWhatYouWatch2": "ЗА ТЕМ, ЧТО",
+				"WatchWhatYouWatch3": "ВИДИШЬ"
 			},
 			"questions": {
-				"DoNotAsk": "DO NOT ASK BACK",
-				"KeepYouSafe": "TO KEEP YOU SAFE, THE MINISTRY KEEPS SECRETS",
-				"EspeciallyYours": "ESPECIALLY YOURS!",
-				"Q:": "Q:",
-				"SafeFromWhat": "SAFE FROM WHAT?",
-				"A:": "A:",
-				"ThatsSecret": "THAT'S SECRET."
+				"DoNotAsk": "НЕ ВОЗВРАЩАЙСЯ К ЭТОМУ",
+				"KeepYouSafe": "ДЛЯ ТВОЕЙ СОХРАННОСТИ, МИНИСТЕРСТВО ХРАНИТ СЕКРЕТЫ",
+				"EspeciallyYours": "ОСОБЕННО ТВОИ!",
+				"Q:": "В:",
+				"SafeFromWhat": "СОХРАНЯЮТ ОТ ЧЕГО?",
+				"A:": "О:",
+				"ThatsSecret": "ЭТО СЕКРЕТ."
 			},
 			"smile": {
-				"SmileForTheCam": "SMILE FOR THE CAMERA",
-				"HidingIsCriminal": "HIDING IS CRIMINAL",
-				"OnlyCriminals": "ONLY CRIMINALS HAVE SOMETHING TO HIDE",
-				"StayAlwaysInSight": "ALWAYS STAY IN SIGHT OF AT LEAST ONE °EYE"
+				"SmileForTheCam": "УЛЫБАЙТЕСЬ В КАМЕРУ",
+				"HidingIsCriminal": "ПРЯТАТЬСЯ ЭТО ПРЕСТУПЛЕНИЕ",
+				"OnlyCriminals": "ТОЛЬКО ПРЕСТУПНИКАМ ЕСТЬ, ЧТО СКРЫВАТЬ",
+				"StayAlwaysInSight": "ВСЕГДА НАХОДИТЕСЬ ПОД ВЗГЛЯДОМ ХОТЯ БЫ ОДНОГО °EYE"
 			},
 			"stream_wall": {
-				"StatusLeft": "STATUS:      STATUS:      STATUS:",
-				"SecureLeft": "SECURE       SECURE       SECURE       SECURE",
-				"StatusRight": "STATUS:      STATUS:      STATUS:      STATUS:",
-				"SecureRight": "SECURE       SECURE       SECURE"
+				"StatusLeft": "СТАТУС:      СТАТУС:      СТАТУС:",
+				"SecureLeft": "ЗАЩИТА       ЗАЩИТА       ЗАЩИТА       ЗАЩИТА",
+				"StatusRight": "СТАТУС:      СТАТУС:      СТАТУС:      СТАТУС:",
+				"SecureRight": "ЗАЩИТА       ЗАЩИТА       ЗАЩИТА"
 			},
 			"stream_wall_2": {
-				"CriminalNeutralized": "CRIMINAL NEUTRALIZED",
-				"Name1": "NAME:",
-				"Name2": "&quot;NOBODY&quot;",
-				"Time1": "TIME:",
-				"Time2": "2044 PST (1 MIN AGO)",
-				"Crime1": "CRIME:",
-				"Crime2": "HIDING FROM CAMERA",
-				"Status1": "STATUS:",
-				"Status2": "TRANQUILIZED (POSSIBLE OVERDOSE)"
+				"CriminalNeutralized": "ПРЕСТУПНИК НЕЙТРАЛИЗОВАН",
+				"Name1": "ИМЯ:",
+				"Name2": "&quot;НИКТО&quot;",
+				"Time1": "ВРЕМЯ:",
+				"Time2": "2044 PST (1 МИН НАЗАД)",
+				"Crime1": "ПРЕСТУПЛЕНИЕ:",
+				"Crime2": "ПРЯТАНИЕ ОТ КАМЕРЫ",
+				"Status1": "СТАТУС:",
+				"Status2": "ТРАНКВИЛИЗОВАН (ВОЗМОЖНО ПЕРЕДОЗИРОВКА)"
 			},
 			"tut_carpet": {
-				"DeviceInactiveCarpet": "RE: DEVICE INACTIVE ON CARPET",
-				"FeatureNotBug": "IT'S NOT A BUG, IT'S A FEATURE.",
-				"IssueClosed": "[ISSUE MARKED AS CLOSED]"
+				"DeviceInactiveCarpet": "RE: УСТРОЙСВО НЕАКТИВНО НА КОВРЕ",
+				"FeatureNotBug": "ЭТО НЕ ОШИБКА, ЭТО ОСОБЕННОСТЬ.",
+				"IssueClosed": "[ПРОБЛЕМА ПОМЕЧЕНА КАК ЗАКРЫТАЯ]"
 			},
 			"tut_darker": {
-				"LookForLines1": "LOOK FOR THE",
-				"LookForLines2": "DARKER",
-				"LookForLines3": "LINES"
+				"LookForLines1": "ПОИСК",
+				"LookForLines2": "БОЛЕЕ ТЁМНЫХ",
+				"LookForLines3": "ЛИНИЙ"
 			},
 			"tut_pickup": {
-				"MovingIEyes": "MOVING °EYES",
-				"SpaceKey": "SPACE KEY",
-				"Or": "- - - - - - OR - - - - - - ",
-				"ClickCircle1": "CLICK",
-				"ClickCircle2": "CIRCLE",
-				"ToPickupDrop": "TO PICKUP/DROP",
-				"ThanksForSurveillance1": "THANK YOU FOR",
-				"ThanksForSurveillance2": "PARTICIPATING",
-				"ThanksForSurveillance3": "IN YOUR OWN",
-				"ThanksForSurveillance4": "SURVEILLANCE"
+				"MovingIEyes": "ДВИЖЕНИЕ °EYES",
+				"SpaceKey": "ПРОБЕЛ",
+				"Or": "- - - - - - ИЛИ - - - - - - ",
+				"ClickCircle1": "НАЖАТЬ",
+				"ClickCircle2": "НА КРУГ",
+				"ToPickupDrop": "ЧТОБ ВЗЯТЬ/ПОЛОЖИТЬ",
+				"ThanksForSurveillance1": "СПАСИБО ЗА",
+				"ThanksForSurveillance2": "УЧАСТИЕ",
+				"ThanksForSurveillance3": "В ВАШЕЙ СОБСТВЕННОЙ",
+				"ThanksForSurveillance4": "СЛЕЖКЕ"
 			},
 			"tut_power": {
-				"ActiveSlidewalks1": "SOME °EYES",
-				"ActiveSlidewalks2": "WILL ACTIVATE",
-				"ActiveSlidewalks3": "SOME SLIDEWALKS",
-				"ActiveSlidewalks4": "Only when they see",
-				"ActiveSlidewalks5": "SOMEBODY"
+				"ActiveSlidewalks1": "НЕКОТОРЫЕ °EYES",
+				"ActiveSlidewalks2": "АКТИВИРУЮТ",
+				"ActiveSlidewalks3": "НЕКОТОРЫЕ ТРОТУАРЫ",
+				"ActiveSlidewalks4": "Только когда они видят",
+				"ActiveSlidewalks5": "КОГОТО"
 			},
 			"tut_reminder": {
-				"StayInSight": "STAY IN SIGHT"
+				"StayInSight": "НАХОДИТЕСЬ ПОД ВЗГЛЯДОМ"
 			},
 			"tut_slidewalk": {
-				"SLIDEWALK": "SLIDEWALK",
-				"AvoidUsingLegs": "A REVOLUTIONARY NEW WAY TO AVOID USING YOUR LEGS"
+				"SLIDEWALK": "ТРОТУАР",
+				"AvoidUsingLegs": "РЕВОЛЮЦИОННЫЙ СПОСОБ ИЗБЕЖАТЬ ИСПОЛЬЗОВАНИЯ ВАШИХ НОГ"
 			},
 			"tut_slow": {
-				"SlowDown": "SLOW DOWN",
-				"ForNarrowPaths": "For narrow paths",
-				"ShiftKey": "SHIFT KEY",
-				"OR": "- - - - - - - OR - - - - - - -",
-				"MoveMouseSlowly1": "MOVE MOUSE",
-				"MoveMouseSlowly2": "SLOWLY"
+				"SlowDown": "ЗАМЕДЛИТЕСЬ",
+				"ForNarrowPaths": "По узким тропинкам",
+				"ShiftKey": "SHIFT",
+				"OR": "- - - - - - - ИЛИ - - - - - - -",
+				"MoveMouseSlowly1": "МЕДЛЕННО ВЕСТИ",
+				"MoveMouseSlowly2": "МЫШЬЮ"
 			},
 			"tut_walk": {
-				"Walking": "WALKING",
-				"ArrowKeys1": "ARROW",
-				"ArrowKeys2": "KEYS",
-				"OR": "- - - - - OR - - - - - - ",
-				"WalkingMouse1": "CLICK",
-				"WalkingMouse2": "&amp; HOLD",
-				"WalkingMouse3": "MOUSE",
-				"LowTechTransportation1": "A FORM OF LOW-TECH",
-				"LowTechTransportation2": "TRANSPORTATION"
+				"Walking": "ДВИЖЕНИЕ",
+				"ArrowKeys1": "СТРЕЛКИ",
+				"ArrowKeys2": "КЛАВИАТУРЫ",
+				"OR": "- - - - - ИЛИ - - - - - - ",
+				"WalkingMouse1": "НАЖАТИЕ",
+				"WalkingMouse2": "&amp; И УДЕРЖАНИЕ",
+				"WalkingMouse3": "МЫШИ",
+				"LowTechTransportation1": "ФОРМА НИЗКОТЕХНОЛОГИЧНОГО",
+				"LowTechTransportation2": "ПЕРЕДВИЖЕНИЯ"
 			},
 			"unsecret_ballot": {
-				"WrongChoice1": "WRONG CHOICE",
-				"WrongChoice2": "WRONG CHOICE",
-				"GARDNER": "GARDNER",
-				"WrongChoice3": "WRONG CHOICE",
-				"WrongChoice4": "WRONG CHOICE",
-				"RemberCantHide1": "REMEMBER...",
-				"RemberCantHide2": "YOU CAN'T HIDE",
-				"RemberCantHide3": "YOUR UN-SECRET BALLOT. SO",
-				"RememberVoteWinner1": "REMEMBER...",
-				"RememberVoteWinner2": "TO VOTE FOR",
-				"RememberVoteWinner3": "THE WINNER"
+				"WrongChoice1": "НЕПРАВИЛЬНО",
+				"WrongChoice2": "НЕПРАВИЛЬНО",
+				"GARDNER": "ГАРДНЕР",
+				"WrongChoice3": "НЕПРАВИЛЬНО",
+				"WrongChoice4": "НЕПРАВИЛЬНО",
+				"RemberCantHide1": "ЗАПОМНИТЕ...",
+				"RemberCantHide2": "ВЫ НЕ МОЖЕТЕ СПРЯТАТЬ",
+				"RemberCantHide3": "ВАШУ ОТКРЫТУЮ БЮЛЛЕТЕНЬ. И",
+				"RememberVoteWinner1": "ПОМНИТЕ...",
+				"RememberVoteWinner2": "ГОЛОСУЙТЕ ЗА",
+				"RememberVoteWinner3": "ПОБЕДИТЕЛЯ"
 			}
 		}
 	}
