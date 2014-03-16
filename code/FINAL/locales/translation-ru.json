@@ -155,57 +155,57 @@
 	"images": {
 		"general":{
 			"controls": {
-				"scrolldown": "SCROLL DOWN",
-				"mouse": "MOUSE",
-				"keys": "KEYS"
+				"scrolldown": "ПРОКРУТИТЕ ВНИЗ",
+				"mouse": "МЫШЬЮ",
+				"keys": "КЛАВИШАМИ"
 			},
-			"or": "OR",
-			"tweet": "TWEET",
-			"share": "SHARE",
-			"THEWALL": "THE WALL"
+			"or": "ИЛИ",
+			"tweet": "ТВИТ",
+			"share": "ПОДЕЛИТЬСЯ",
+			"THEWALL": "СТЕНА"
 		},
 		"propaganda": {
 			"dont_help_hiders": {
-				"donthelp1": "DON'T HELP",
+				"donthelp1": "НЕ ПОМОГАЙ",
 				"donthelp2": "HIDERS",
-				"fourthAmendment1": "but the fourth",
-				"fourthAmendment2": "amendment",
-				"fourthAmendment3": "protects"
+				"fourthAmendment1": "но четвертая",
+				"fourthAmendment2": "поправка",
+				"fourthAmendment3": "защищает"
 			},
 			"error": {
-				"ERROR": "ERROR:",
-				"AudienceNotFound1": "`TARGETED_AUDIENCE`",
-				"AudienceNotFound2": "CANNOT BE FOUND",
-				"MeantForNobody1": "&gt; this wall is meant",
-				"MeantForNobody2": "&gt; for NOBODY"
+				"ERROR": "ОШИБКА:",
+				"AudienceNotFound1": "`ЦЕЛЕВАЯ_АУДИТОРИЯ`",
+				"AudienceNotFound2": "НЕВОЗМОЖНО НАЙТИ",
+				"MeantForNobody1": "&gt; эта стена предназначена",
+				"MeantForNobody2": "&gt; для НИКОГО"
 			},
 			"intro_pics": {
-				"posted4DaysAgo": "posted 4 days ago",
-				"Message1": "Thank you for 4 billion followers! I'm so",
-				"Message2": "happy! Vote for my dad in the un-secret",
-				"Message3": "ballot! So happy. Haha! Ha. ha..."
+				"posted4DaysAgo": "опубликовано 4 дня назад",
+				"Message1": "Спасибо вам, 4 миллиарда послежователей! Я так",
+				"Message2": "счастлива! Голосуйте за моего отца в открытом",
+				"Message3": "голосовании! Так счастлива. Хаха! Ха. Ха..."
 			},
 			"needs_dummy": {
-				"YesMySignal1": "YES, MY SIGNAL",
-				"YesMySignal2": "DEPLOYS",
-				"YesMySignal3": "FOR ALL THE",
-				"YesMySignal4": "GIRLS &amp; BOYS!"
+				"YesMySignal1": "ДА, МОЙ СИГНАЛ",
+				"YesMySignal2": "ДЕЙСТВУЕТ",
+				"YesMySignal3": "ДЛЯ ВСЕХ",
+				"YesMySignal4": "ДЕВУШЕК &amp; ПАРНЕЙ!"
 			},
 			"nobody_messes": {
-				"posted4DaysAgo": "posted 4 days ago",
-				"THEWALL": "THE WALL",
-				"gotRidSecretBallot1": "Aw yiss, 'bout time we got rid of the secret ballot!",
-				"gotRidSecretBallot2": "Let's expose all those un-Americans who have",
-				"gotRidSecretBallot3": "something to hide. #votegardner",
-				"NobodyMessesWith1": "Nobody messes with the Ministry!",
-				"NobodyMessesWith2": "Nobody cares for privacy!",
-				"NobodyMessesWith3": "Nobody! ^_^"
+				"posted4DaysAgo": "опубликовано 4 дня назад",
+				"THEWALL": "СТЕНА",
+				"gotRidSecretBallot1": "Ой, да, время битвы, мы избавились от тайного голосования!",
+				"gotRidSecretBallot2": "Давайте раскроем всех этих не-Американцев которым есть",
+				"gotRidSecretBallot3": "что скрывать. #votegardner",
+				"NobodyMessesWith1": "Никто не возится с Министерством!",
+				"NobodyMessesWith2": "Никто не заботится о приватности!",
+				"NobodyMessesWith3": "Никто! ^_^"
 			},
 			"nobody_the_wall": {
-				"THEWALL": "THE WALL"
+				"THEWALL": "СТЕНА"
 			},
 			"nobody_the_wall_2": {
-				"THEWALL": " THE WALL THE WALL THE WALL THE WALL THE WALL THE WALL THE WALL"
+				"THEWALL": " СТЕНА СТЕНА СТЕНА СТЕНА СТЕНА СТЕНА СТЕНА"
 			},
 			"pickup_gardner": {
 				"ProtectorPatriotPop": "PROTECTOR. PATRIOT. POP.",
