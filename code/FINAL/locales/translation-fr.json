@@ -61,6 +61,7 @@
 		"resumegame": "REPRENDRE LE JEU",
 		"resetlevel": "REPRENDRE LE NIVEAU",
 		"pause": "PAUSE",
+		"play": "PLAY",
 		"skiplevel": "EVITER LE NIVEAU"
 	},
 	"game": {
