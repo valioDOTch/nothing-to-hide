@@ -1,0 +1,347 @@
+{
+	"translator": "Shugyousha",
+	"app": {
+		"name": "隠すべきものなし",
+		"subtitle": "自分のワッチドッグの役をする、非ステルスゲーム。",
+		"longtitle": "隠すべきものなし： 自分のワッチドッグの役をする、非ステルスゲーム。"
+	},
+	"menu": {
+		"play": "プレイ",
+		"support": "サポート & シェア",
+		"uncopyright": "非・著作権",
+		"credits": "クレジット・タイトル"
+	},
+	"dialog": {
+		"fund": {
+			"title": "このデーもをプレーしてくださってありがとうございます!",
+			"staytuned": [
+				"完全したゲームの十分の一部でもなかったので、ワクワクですね！",
+				"一方で…　ゲームの十分の位置でもなかったので、大変だ。",
+				"完成まではまだ長い道なので、皆さんの支援が必要です。"
+			],
+			"backthisgame": "このゲームをバックする",
+			"whycrowdfunding": [
+				"クラウドファンディングを使っているのはなぜ? なぜかというとこのゲームはオーペンソースで非・著作権です。",
+				"私達は公のために作れられ、公に支援されています!",
+				"このプロージェクトはソーシャルメディアの風刺ですので、ちょっとアイロニックですが…
+			],
+			"thanksdissident": "改めてありがとうございます、反体制派よ！"
+		},
+		"uncopyright": {
+			"title": "「隠すべきものなし」には隠すべきものはなし",
+			"linkdescription": [
+							"私達は",
+							"<a href='%s' target='_blank'>オーペンソース</a>で,",
+							"<a href='%s' target='_blank'>公開的にデザインされ</a>,",
+							"君のサポートのおかげで、",
+							"<a href='%s' target='_blank'>公開的に提供された</a>。",
+							"その上に、非・著作権。そうです―",
+							"<a href='%s' target='_blank'>保留権はゼロ</a>。"
+			],
+			"youarewelcometo": "どうぞ",
+			"piratethisgame": "ーこのゲームを「違法」コピーしたり、",
+			"recordandmonetize": "ーこのゲームをレコードして「Let's Play」ビデオで広告を売ったり、",
+			"rehostthisgame": "ーこのゲームをご自分のサイトにリホストしたり、",
+			"useartmusiccode": "ーこのゲームのアート・音楽・コードをご自分のプロージェクトに使ったりしてください！",
+			"makeamod": [
+				"ー主役に「My Little Pony: Friendship Is Magic」のLuna姫のキャラを",
+				"入れ替えられたゲームのバーションを作ってみてください。",
+				"ま、そうなさったら、ハスブロから差止め命令がくるでしょう。",
+				"僕は平気だけど。"
+			],
+			"givinguppower": "自分のアートを自由にすることで、アートがパワーアップするのだ。"
+		},
+		"credits": {
+			"withthehelp": "数百人のサポートのお陰で"
+		}
+		
+	},
+	"command": {
+		"backtomainmenu": "メイン・メニューに戻る",
+		"resumegame": "ゲームを続ける",
+		"resetlevel": "レベルをリセット",
+		"pause": "ポース",
+		"skiplevel": "レベルをスキップ"
+	},
+	"game": {
+		"general":{ 
+			"panopticonpaused": "パンオプティコンがポースされている",
+			"levelselect": "レベルを選択する：",
+			"intro": "イントロ",
+			"ending": "エンディング",
+			"sharegame": "ゲームをシェア："
+		},
+		"thewall":{
+			"posted": "ポーストされた",
+			"justnow": "ただ今",
+			"minutesago": "一分前",
+			"minutesago_plural": "__count__分前",
+			"secondsago": "一秒前",
+			"secondsago_plural": "__count__秒前"
+		}
+	},
+	"character":{
+		"poppy": "ポッピー",
+		"poppygardner": "ポッピー・ガードナー",
+		"georgegardner": "ジョージ・ガードナー",
+		"nobody": "ノーボディ"
+	},
+	"cutscene":{
+		"intro":[
+				"ポッピー？",
+				"ヘイ、スイーティ。悲しまないで。",
+				"俺の人気レーティングを悪くするよ。",
+				"最初の非・秘密の選挙が行われる。お父さんの出世にすごく重要なことなので、君のハッピーな写真をいっぱい「ザ掲示板」にポストして貰いたい。一日に少なくとも４００枚になるように頼むよ。",
+				"ポッピー、お願いだよ。 投票者に悪い父親だと思われたくないのだ。",
+				"お休み！ <span>#DaddyDaughterMoment</span>",
+				"わっ… 私はここを出なきゃ…",
+				"お父さんも僕がいないほうがいい。彼の人気メトリックス&trade;もそうだ。"
+		],
+		"end":[
+			"死なないでください！どうしよう、どうしよう！…",
+			"OK。 OK、OK。アイディアを考え付いた。",
+			"時々お父さんが私をこういうふうに起こしてくれる。これでうまく行くといいね...",
+			"<span>#DaddyDaughterMoment</span>",
+			"イタッ！顔が痛い！君が…",
+			"ごめんなさい",
+			"…命を救ってくれたよ！謝らないでよ！",
+			"誤っちゃってごめんなさい",
+			"ちょっと待って、今掲示板にいる？…",
+			"\"ポッピー・ガードナーが一分前にポストした. 時々お父さんが私をこういうふうに起こしてくれる。これでうまく行くといいね…\"",
+			"すごい。信じられない。ガードナー大臣が自分のご家族をそういうふうに…信じられない。",
+			"<i>まぁ</i>そう言って君の気が楽なるかどうかはわからないけど、君のお父さんが国家の皆さんも精神的にも肉体的にも虐待しているよ",
+			"\"何を行っているか、聞いているか、見ているか、<i>考えている</i>か気をつけること\"。<br>隠れるところがなければ、真実の自分を隠さなきゃならないのだ。",
+			"私は君が彼から逃げることを助けることができるよ。",
+			"実は、そのためのアップリを持っているよ！",
+			"エックスプロイト！自分で作ったものだよ. 画面をここにタッチすることだけで、ザ掲示板から削除されるよ。それで君も僕と同じようにノーボディになるのだ。",
+			"カメラのために演技するんじゃない。自分であれ。"
+		]
+	},
+	"dialogue": {
+		"postedjustnow": "只今ポストされた",
+		"level": {
+			"intro": {
+				"nobodyNeedsMe":"私は誰にも必要じゃない…",
+				"runningAway": "じゃ、カナダにも脱走しようかな。"
+			},
+			"pickup": {
+				"lookMySmile": "あ… お父さんの選挙キャンペーンのポストだ。私の微笑みを見て。:)",
+				"disciplinedToSmile": "微笑みが十分に本物にみえなかった時に、お父さんに罰を与えられたのだ。:)"
+			},
+			"big_puzzle": {
+				"iWonder": "人々を苛立たせることを禁じる法律が…人々を苛立たせるのかしら？…"
+			},
+			"conveyor": {
+				"myOwnWatchman": "私が自分のウオッチドッグだったら…私は自分から隠れようとするのかな?…"
+			},
+			"conveyor_2": {
+				"whyQuestionMarks": "私はどうしてそんなに省略法と疑問符を使っているでしょう？…",
+				"havingAPrivateThought": "私的な思想をするのがそういう感じがすると思う…なんか変な感じ。"
+			},
+			"power": {
+				"whatWasNoise": "この音…この音は何だったのでしょう？",
+				"looksUncomfortable": "あら… 不快適そうだね。"
+			},
+			"power_puzzle": {
+				"poorNobodyOnlyIEye" : "可哀想な'ノーボディ'。たった一つの彼を見ていた「iEye」を取り上げてしまったのだ。",
+				"neverDoneThat" : "私が一度もそうしなくて、よかった。"
+			},
+			"nobody_needs_you": {
+				"onceInMyLife": "私の人生に初めて... 他の人々にどう見られるのを気にしていないのだ！私…助けてあげなきゃ！",
+				"nobodyNeedsMe": "'ノーボディ'には私が必要だ！"
+			}
+		}
+	},
+	"images": {
+		"general":{
+			"controls": {
+				"scrolldown": "下へスクロール",
+				"mouse": "¬マウス¬",
+				"keys": "¬¬キース¬¬"
+			},
+			"or": "¬OR¬",
+			"tweet": "ツイート",
+			"share": "シェア",
+			"THEWALL": "ザ掲示板"
+			
+		},
+		"propaganda": {
+			"dont_help_hiders": {
+				"donthelp1": "隠れ者に",
+				"donthelp2": "助けるな",
+				"fourthAmendment1": "第四目の",
+				"fourthAmendment2": "法律改正が",
+				"fourthAmendment3": "人を守る"
+			},
+			"error": {
+				"ERROR": "エラー：",
+				"AudienceNotFound1": "`訴求対象`が",
+				"AudienceNotFound2": "見つかりませんでした",
+				"MeantForNobody1": "&gt; この壁が",
+				"MeantForNobody2": "&gt; 誰のためもないのだ"
+			},
+			"intro_pics": {
+				"posted4DaysAgo": "４日前にポストされた",
+				"Message1": "四十億人のフォロワーで、ありがとう！すごく",
+				"Message2": "嬉しいです！非・秘密の選挙でお父さんに投票してください！",
+				"Message3": "嬉しい！ 笑笑！ 笑。笑…"
+			},
+			"needs_dummy": {
+				"YesMySignal1": "イエス、私の信号は",
+				"YesMySignal2": "皆の女子&amp;男子",
+				"YesMySignal3": "のために",
+				"YesMySignal4": "設備される！"
+			},
+			"nobody_messes": {
+				"posted4DaysAgo": "４日前にポストされた",
+				"THEWALL": "ザ掲示板",
+				"gotRidSecretBallot1": "よしゃ、秘密の選挙が排除されることがやっとできた！",
+				"gotRidSecretBallot2": "その隠そうとするもののある",
+				"gotRidSecretBallot3": "非・アメリカ人を露出しよう。#votegardner",
+				"NobodyMessesWith1": "誰も内閣に喧嘩を売らないのだ！",
+				"NobodyMessesWith2": "誰もプライバシーはどうでもいい！",
+				"NobodyMessesWith3": "誰も！^_^"
+			},
+			"nobody_the_wall": {
+				"THEWALL": "ザ掲示板"
+			},
+			"nobody_the_wall_2": {
+				"THEWALL": " ザ掲示板 ザ掲示板 ザ掲示板 ザ掲示板 ザ掲示板 ザ掲示板 ザ掲示板"
+			},
+			"pickup_gardner": {
+				"ProtectorPatriotPop": "防御者・愛国者・父親",
+				"VoteGardner1": "非・秘密の選挙で",
+				"VoteGardner2": "ガードナーに投票してください"
+			},
+			"pickup_lookout": {
+				"LookOut1": "自分を",
+				"LookOut2": "重視しよう"
+			},
+			"puzzle_mock": {
+				"RememberToBe": "人気で",
+				"POPULAR": "可愛くて",
+				"PRETTY": "愛国的であることを",
+				"PATRIOTIC": "忘れないでください",
+				"HowSelfWorth1": "そうじゃないと",
+				"HowSelfWorth2": "どうやって",
+				"HowSelfWorth3": "自分を評価でしょう？"
+			},
+			"puzzle_psa": {
+				"PatriotPSA1": "愛国心者サービスの",
+				"PatriotPSA2": "報告",
+				
+				"WatchWhatYouSay1": "何を言うかに",
+				"WatchWhatYouSay2": "気を",
+				"WatchWhatYouSay3": "つけましょう",
+				
+				"WatchWhatYouHear1": "何を聞くかに",
+				"WatchWhatYouHear2": "気を",
+				"WatchWhatYouHear3": "つけましょう",
+
+				"WatchWhatYouWatch1": "何に気をつけるかに",
+				"WatchWhatYouWatch2": "気を",
+				"WatchWhatYouWatch3": "つけましょう"
+			},
+			"questions": {
+				"DoNotAsk": "聞くのじゃありません",
+				"KeepYouSafe": "君を守るために内閣は秘密も守っている",
+				"EspeciallyYours": "特に君の秘密を！",
+				"Q:": "Q:",
+				"SafeFromWhat": "何から守るのですか？",
+				"A:": "A:",
+				"ThatsSecret": "秘密です。"
+			},
+			"smile": {
+				"SmileForTheCam": "カメラのためにスマイル",
+				"HidingIsCriminal": "隠れることは違法",
+				"OnlyCriminals": "犯人だけには隠すべきものがある",
+				"StayAlwaysInSight": "いつも少なくともひとつの「EYE」に見守られますように"
+			},
+			"stream_wall": {
+				"StatusLeft": "ステータス：       ステータス：       ステータス：",
+				"SecureLeft": "安全       安全       安全       安全"
+				"StatusRight": "ステータス：       ステータス：       ステータス：",
+				"SecureRight": "安全       安全       安全       安全"
+			},
+			"stream_wall_2": {
+				"CriminalNeutralized": "犯人無力化済",
+				"Name1": "ネーム：",
+				"Name2": "&quot;ノーボディ&quot;",
+				"Time1": "時間：",
+				"Time2": "2044 PST （一分前）",
+				"Crime1": "犯行：",
+				"Crime2": "カメラから隠れること",
+				"Status1": "ステータス：",
+				"Status2": "麻酔（致死量可能あり）"
+			},
+			"tut_carpet": {
+				"DeviceInactiveCarpet": "RE：カーペット上のデバイスが不動",
+				"FeatureNotBug": "バッグじゃなくて、フィーチャーです。",
+				"IssueClosed": "[バッグが解決された]"
+			},
+			"tut_darker": {
+				"LookForLines1": "より暗い線を",
+				"LookForLines2": "探して",
+				"LookForLines3": "ください"
+			},
+			"tut_pickup": {
+				"MovingIEyes": "°EYEを動かすために",
+				"SpaceKey": "スペースキー",
+				"Or": "- - - - - - それとも - - - - - - ",
+				"ClickCircle1": "サークルを",
+				"ClickCircle2": "クリックすることで",
+				"ToPickupDrop": "°EYEを拾う",
+				"ThanksForSurveillance1": "自分の監視に",
+				"ThanksForSurveillance2": "貢献",
+				"ThanksForSurveillance3": "してくださって、",
+				"ThanksForSurveillance4": "ありがとうございます"
+			},
+			"tut_power": {
+				"ActiveSlidewalks1": "ある°EYESは",
+				"ActiveSlidewalks2": "誰かを見る時のみ",
+				"ActiveSlidewalks3": "コンベヤベルトを",
+				"ActiveSlidewalks4": "起動",
+				"ActiveSlidewalks5": "させるのだ"
+			},
+			"tut_reminder": {
+				"StayInSight": "絶え間なく監視されますように"
+			},
+			"tut_slidewalk": {
+				"SLIDEWALK": "コンベヤベルト"
+				"AvoidUsingLegs": "革命的な、自分の足を利用することを避けさせる方法"
+			},
+			"tut_slow": {
+				"SlowDown": "細い道で",
+				"ForNarrowPaths": "ゆっくりと歩くに",
+				"ShiftKey": "シフトキー",
+				"OR": "- - - - - - - それとも - - - - - - -",
+				"MoveMouseSlowly1": "マウスを",
+				"MoveMouseSlowly2": "ゆっくりと動かす"
+			},
+			"tut_walk": {
+				"Walking": "アロー",
+				"ArrowKeys1": "キースで",
+				"ArrowKeys2": "歩く",
+				"OR": "- - - - - それとも - - - - - - ",
+				"WalkingMouse1": "クリックして",
+				"WalkingMouse2": "マウスバトンを押したまま",
+				"WalkingMouse3": "マウスを動かす",
+				"LowTechTransportation1": "単純技術の",
+				"LowTechTransportation2": "移動方法の一種"
+			},
+			"unsecret_ballot": {
+				"WrongChoice1": "ハズレ",
+				"WrongChoice2": "ハズレ",
+				"GARDNER": "ガードナー",
+				"WrongChoice3": "ハズレ",
+				"WrongChoice4": "ハズレ",
+				"RemberCantHide1": "忘れないでください…"
+				"RemberCantHide2": "非・秘密の選挙を",
+				"RemberCantHide3": "隠すことができないので、",
+				"RememberVoteWinner1": "入選者に",
+				"RememberVoteWinner2": "投票するのを",
+				"RememberVoteWinner3": "忘れないでください…"
+			}
+		}
+	}
+}
