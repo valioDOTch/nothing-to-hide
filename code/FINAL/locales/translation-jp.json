@@ -61,6 +61,7 @@
 		"resumegame": "ゲームを続ける",
 		"resetlevel": "レベルをリセット",
 		"pause": "ポース",
+		"play": "プレイ",
 		"skiplevel": "レベルをスキップ"
 	},
 	"game": {
