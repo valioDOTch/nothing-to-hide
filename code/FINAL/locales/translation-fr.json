@@ -40,14 +40,14 @@
 			],
 			"youarewelcometo": "Tu est totalement le bienvenu à:",
 			"piratethisgame": "- \"Pirater\" ce jeu.",
-			"recordandmonetize": "- Enregistrer et monétiser Let's Plays.",
+			"recordandmonetize": "- Enregistrer et monétiser des Let's Plays.",
 			"rehostthisgame": "- Héberger ce jeu sur ton propre site internet.",
 			"useartmusiccode": "- Utiliser cet art/musique/code dans tes propres projets.",
 			"makeamod": [
 				"- Fais un mode ou le principal caractère est remplacé par Princesse Luna, du",
-				"dessin animé Mon Petit Poney: Les Amies c'est Magique.",
-				"Bon, arrivé à ce point, you'll probably get a cease and desist from Hasbro for that.",
-				"But not from me."
+				"dessin animé My Little Pony : Les amies, c'est magique.",
+				"Bon, arrivé à ce point, Hasbro vas probablement vous servir une ordonnance de cessation et d’abstention.",
+				"Mais pas de moi."
 			],
 			"givinguppower": "En abandonnant le \"pouvoir\" à travers notre art, notre art peut avoir plus de pouvoir."
 		},
@@ -61,7 +61,7 @@
 		"resumegame": "REPRENDRE LE JEU",
 		"resetlevel": "REPRENDRE LE NIVEAU",
 		"pause": "PAUSE",
-		"play": "PLAY",
+		"play": "JOUER",
 		"skiplevel": "EVITER LE NIVEAU"
 	},
 	"game": {
@@ -96,7 +96,7 @@
 				"S'il te plaît Poppy? Je ne veux pas que les votants pensent que je suis un mauvais parent.",
 				"Bon, bonne nuit! <span>#DaddyDaughterMoment</span>",
 				"Je... je dois quitter tout ça...",
-				"Dad sera mieux sans moi. Sa popularité métrique et commerciale, aussi."
+				"Papa sera mieux sans moi. Sa popularité métrique et commerciale, aussi."
 		],
 		"end":[
 			"Non ne sois pas mort, oh mon Dieu, oh mon Dieu, oh mon Dieu, oh mon Dieu, oh mon Dieu",
@@ -119,7 +119,7 @@
 		]
 	},
 	"dialogue": {
-		"postedjustnow": "posted just now",
+		"postedjustnow": "juste publiée" ,
 		"level": {
 			"intro": {
 				"nobodyNeedsMe":"Nobody needs me...",
@@ -130,7 +130,7 @@
 				"disciplinedToSmile": "He disciplined me when my smile didn't look genuine enough. :)"
 			},
 			"big_puzzle": {
-				"iWonder": "I wonder... if these laws against upsetting people... upset people?"
+				"iWonder": "Je me demande... ci ces lois contre rendre des gens triste... rendre des gens triste?"
 			},
 			"conveyor": {
 				"myOwnWatchman": "I wonder... if I'm my own watchman... am I hiding from myself?"
@@ -169,10 +169,10 @@
 		"propaganda": {
 			"dont_help_hiders": {
 				"donthelp1": "N'AIDE PAS",
-				"donthelp2": "HIDERS",
+				"donthelp2": "LES HIDERS",
 				"fourthAmendment1": "mais le quatrième",
-				"fourthAmendment2": "amendment",
-				"fourthAmendment3": "protections"
+				"fourthAmendment2": "amendement",
+				"fourthAmendment3": "protège"
 			},
 			"error": {
 				"ERROR": "ERREUR:",
@@ -183,19 +183,19 @@
 			},
 			"intro_pics": {
 				"posted4DaysAgo": "publié il y a 4 jours",
-				"Message1": "Thank you for 4 billion followers! I'm so",
-				"Message2": "happy! Vote for my dad in the un-secret",
-				"Message3": "ballot! So happy. Haha! Ha. ha..."
+				"Message1": "Merci pour 4 milliard abonnés! Je suis",
+				"Message2": "si contente! Vote pour mon papa dans le scrutin",
+				"Message3": "pas secret! Si contente. Haha! Ha. ha..."
 			},
 			"needs_dummy": {
-				"YesMySignal1": "YES, MY SIGNAL",
-				"YesMySignal2": "DEPLOYS",
-				"YesMySignal3": "FOR ALL THE",
-				"YesMySignal4": "GIRLS &amp; BOYS!"
+				"YesMySignal1": "OUI, MON SIGNAL",
+				"YesMySignal2": "DÉPLOIE",
+				"YesMySignal3": "POUR TOUT LES",
+				"YesMySignal4": "FILLES &amp; GARCONS!"
 			},
 			"nobody_messes": {
-				"posted4DaysAgo": "posted 4 days ago",
-				"THEWALL": "THE WALL",
+				"posted4DaysAgo": "publié il y a 4 jours",
+				"THEWALL": "LE MUR",
 				"gotRidSecretBallot1": "Aw yiss, 'bout time we got rid of the secret ballot!",
 				"gotRidSecretBallot2": "Let's expose all those un-Americans who have",
 				"gotRidSecretBallot3": "something to hide. #votegardner",
@@ -204,59 +204,59 @@
 				"NobodyMessesWith3": "Nobody! ^_^"
 			},
 			"nobody_the_wall": {
-				"THEWALL": "THE WALL"
+				"THEWALL": "LE MUR"
 			},
 			"nobody_the_wall_2": {
-				"THEWALL": " THE WALL THE WALL THE WALL THE WALL THE WALL THE WALL THE WALL"
+				"THEWALL": "MUR LE MUR LE MUR LE MUR LE MUR LE MUR LE MUR LE MUR LE MUR LE"
 			},
 			"pickup_gardner": {
-				"ProtectorPatriotPop": "PROTECTOR. PATRIOT. POP.",
-				"VoteGardner1": "WITH YOUR UN-SECRET BALLOT",
-				"VoteGardner2": "VOTE GARDNER"
+				"ProtectorPatriotPop": "PROTECTEUR. PATRIOTE. POP.",
+				"VoteGardner1": "DANS LE SCRUTIN PAS SECRET",
+				"VoteGardner2": "VOTEZ GARDNER"
 			},
 			"pickup_lookout": {
 				"LookOut1": "LOOK OUT FOR",
 				"LookOut2": "YOURSELF"
 			},
 			"puzzle_mock": {
-				"RememberToBe": "REMEMBER TO BE",
-				"POPULAR": "POPULAR",
-				"PRETTY": "PRETTY",
-				"PATRIOTIC": "PATRIOTIC",
-				"HowSelfWorth1": "HOW ELSE CAN YOU",
-				"HowSelfWorth2": "MEASURE YOUR",
-				"HowSelfWorth3": "SELF-WORTH?"
+				"RememberToBe": "OUBLIIEZ PAS D'ÊTRE",
+				"POPULAR": "POPULAIRE",
+				"PRETTY": "BEAUX",
+				"PATRIOTIC": "PATRIOTIQUE",
+				"HowSelfWorth1": "QUELLE AUTRE MESURE",
+				"HowSelfWorth2": "A TU POUR TON",
+				"HowSelfWorth3": "CONFIANCE EN SOI?"
 			},
 			"puzzle_psa": {
-				"PatriotPSA1": "PATRIOT SERVICE",
-				"PatriotPSA2": "ANOUNCEMENT",
+				"PatriotPSA1": "SERVICE PATRIOTE",
+				"PatriotPSA2": "ANNONCE",
 				
-				"WatchWhatYouSay1": "WATCH",
-				"WatchWhatYouSay2": "WHAT YOU",
-				"WatchWhatYouSay3": "SAY",
+				"WatchWhatYouSay1": "ATTENTION A",
+				"WatchWhatYouSay2": "CE QUE VOUS",
+				"WatchWhatYouSay3": "DITES",
 				
-				"WatchWhatYouHear1": "WATCH",
-				"WatchWhatYouHear2": "WHAT YOU",
-				"WatchWhatYouHear3": "HEAR",
+				"WatchWhatYouHear1": "ATTENTION A",
+				"WatchWhatYouHear2": "CE QUE VOUS",
+				"WatchWhatYouHear3": "ENTENDS",
 
-				"WatchWhatYouWatch1": "WATCH",
-				"WatchWhatYouWatch2": "WHAT YOU",
-				"WatchWhatYouWatch3": "WATCH"
+				"WatchWhatYouWatch1": "ATTENTION A",
+				"WatchWhatYouWatch2": "CE QUE VOUS",
+				"WatchWhatYouWatch3": "VOIS"
 			},
 			"questions": {
-				"DoNotAsk": "DO NOT ASK BACK",
-				"KeepYouSafe": "TO KEEP YOU SAFE, THE MINISTRY KEEPS SECRETS",
-				"EspeciallyYours": "ESPECIALLY YOURS!",
+				"DoNotAsk": "NE RÉPONDS PAS",
+				"KeepYouSafe": "POUR VOTRE SÉCURITÉ, LE MINISTÈRE GARDE DES SECRETS",
+				"EspeciallyYours": "SURTOUT LES VÔTRES!",
 				"Q:": "Q:",
-				"SafeFromWhat": "SAFE FROM WHAT?",
+				"SafeFromWhat": "SÉCURITÉ CONTRE QUOI?",
 				"A:": "A:",
-				"ThatsSecret": "THAT'S SECRET."
+				"ThatsSecret": "CA, C'EST UN SECRET'."
 			},
 			"smile": {
-				"SmileForTheCam": "SMILE FOR THE CAMERA",
-				"HidingIsCriminal": "HIDING IS CRIMINAL",
-				"OnlyCriminals": "ONLY CRIMINALS HAVE SOMETHING TO HIDE",
-				"StayAlwaysInSight": "ALWAYS STAY IN SIGHT OF AT LEAST ONE °EYE"
+				"SmileForTheCam": "UN SOURIRE POUR LA CAMÉRA",
+				"HidingIsCriminal": "SE CACHER C'EST CRIMINELLE",
+				"OnlyCriminals": "SEULEMENT LES CRIMINELS ON DES CHOSES A CACHER",
+				"StayAlwaysInSight": "RESTE TOUJOURS EN VU D'AU MOINS UNE °EYE"
 			},
 			"stream_wall": {
 				"StatusLeft": "STATUS:      STATUS:      STATUS:",
@@ -265,83 +265,84 @@
 				"SecureRight": "SECURE       SECURE       SECURE"
 			},
 			"stream_wall_2": {
-				"CriminalNeutralized": "CRIMINAL NEUTRALIZED",
-				"Name1": "NAME:",
-				"Name2": "&quot;NOBODY&quot;",
-				"Time1": "TIME:",
-				"Time2": "2044 PST (1 MIN AGO)",
+				"CriminalNeutralized": "CRIMINEL NEUTRALISÉ",
+				"Name1": "NOM:",
+				"Name2": "&quot;PERSONNE&quot;",
+				"Time1": "HEURE:",
+				"Time2": "2044 PST (IL Y A 1 MIN)",
 				"Crime1": "CRIME:",
-				"Crime2": "HIDING FROM CAMERA",
+				"Crime2": "SE CACHER DU CAMÉRA",
 				"Status1": "STATUS:",
-				"Status2": "TRANQUILIZED (POSSIBLE OVERDOSE)"
+				"Status2": "TRANQUILLISÉ (SURDOSAGE POSSIBLE)"
 			},
 			"tut_carpet": {
-				"DeviceInactiveCarpet": "RE: DEVICE INACTIVE ON CARPET",
-				"FeatureNotBug": "IT'S NOT A BUG, IT'S A FEATURE.",
-				"IssueClosed": "[ISSUE MARKED AS CLOSED]"
+				"DeviceInactiveCarpet": "RE: APPAREIL INACTIVE SUR LE TAPIS",
+				"FeatureNotBug": "CE N'EST PAS UN BUG, C'EST UN FONCTION",
+				"IssueClosed": "[ISSUE FERMÉ]"
 			},
 			"tut_darker": {
-				"LookForLines1": "LOOK FOR THE",
-				"LookForLines2": "DARKER",
-				"LookForLines3": "LINES"
+				"LookForLines1": "CHERCHE LES",
+				"LookForLines2": "LINGES PLUS",
+				"LookForLines3": "FONCÉ"
 			},
 			"tut_pickup": {
 				"MovingIEyes": "MOVING °EYES",
-				"SpaceKey": "SPACE KEY",
-				"Or": "- - - - - - OR - - - - - - ",
-				"ClickCircle1": "CLICK",
-				"ClickCircle2": "CIRCLE",
-				"ToPickupDrop": "TO PICKUP/DROP",
-				"ThanksForSurveillance1": "THANK YOU FOR",
-				"ThanksForSurveillance2": "PARTICIPATING",
-				"ThanksForSurveillance3": "IN YOUR OWN",
+				"SpaceKey": "TOUCHE ESPACE",
+				"Or": "- - - - - - OU - - - - - - ",
+				"ClickCircle1": "APPUYER",
+				"ClickCircle2": "LA CERCLE",
+				"ToPickupDrop": "POUR PRENDRE/LAISSER",
+				"ThanksForSurveillance1": "MERCI POUR",
+				"ThanksForSurveillance2": "AIDER AVEC",
+				"ThanksForSurveillance3": "TON PROPRE",
 				"ThanksForSurveillance4": "SURVEILLANCE"
 			},
 			"tut_power": {
-				"ActiveSlidewalks1": "SOME °EYES",
-				"ActiveSlidewalks2": "WILL ACTIVATE",
+				"ActiveSlidewalks1": "CERTAINS °EYES",
+				"ActiveSlidewalks2": "S'ACTIVERA'",
 				"ActiveSlidewalks3": "SOME SLIDEWALKS",
-				"ActiveSlidewalks4": "Only when they see",
+				"ActiveSlidewalks4": "Seulement quand il vois",
 				"ActiveSlidewalks5": "SOMEBODY"
 			},
 			"tut_reminder": {
-				"StayInSight": "STAY IN SIGHT"
+				"StayInSight": "RESTE EN VU"
 			},
 			"tut_slidewalk": {
 				"SLIDEWALK": "SLIDEWALK",
-				"AvoidUsingLegs": "A REVOLUTIONARY NEW WAY TO AVOID USING YOUR LEGS"
+				"AvoidUsingLegs": "Une façon révolutionnaire d'éviter d'utiliser tes jambes."
 			},
 			"tut_slow": {
-				"SlowDown": "SLOW DOWN",
-				"ForNarrowPaths": "For narrow paths",
-				"ShiftKey": "SHIFT KEY",
-				"OR": "- - - - - - - OR - - - - - - -",
-				"MoveMouseSlowly1": "MOVE MOUSE",
-				"MoveMouseSlowly2": "SLOWLY"
+				"SlowDown": "RALENTIS",
+				"ForNarrowPaths": "Pour les petit passages",
+				"ShiftKey": "TOUCHE MAJ",
+				"ShiftKey": "TOUCHE MAJ",
+				"OR": "- - - - - - - OU - - - - - - -",
+				"MoveMouseSlowly1": "BOUGE LA SOURIS",
+				"MoveMouseSlowly2": "LENTEMENT"
 			},
 			"tut_walk": {
-				"Walking": "WALKING",
-				"ArrowKeys1": "ARROW",
-				"ArrowKeys2": "KEYS",
-				"OR": "- - - - - OR - - - - - - ",
-				"WalkingMouse1": "CLICK",
-				"WalkingMouse2": "&amp; HOLD",
-				"WalkingMouse3": "MOUSE",
-				"LowTechTransportation1": "A FORM OF LOW-TECH",
-				"LowTechTransportation2": "TRANSPORTATION"
+				"Walking": "MARCHE",
+				"ArrowKeys1": "TOUCHES",
+				"ArrowKeys2": "FLÈCHES",
+				"OR": "- - - - - OU - - - - - - ",
+				"WalkingMouse1": "APPUYER",
+				"WalkingMouse2": "&amp; MAINTENIR",
+				"WalkingMouse3": "AVEC LA SOURIS",
+				"LowTechTransportation1": "DE LA TRANSPORTATION",
+				"LowTechTransportation2": "LOW-TECH."
 			},
 			"unsecret_ballot": {
-				"WrongChoice1": "WRONG CHOICE",
-				"WrongChoice2": "WRONG CHOICE",
+				"WrongChoice1": "MAUVAIS CHOIX",
+				"WrongChoice2": "MAUVAIS CHOIX",
 				"GARDNER": "GARDNER",
-				"WrongChoice3": "WRONG CHOICE",
-				"WrongChoice4": "WRONG CHOICE",
-				"RemberCantHide1": "REMEMBER...",
-				"RemberCantHide2": "YOU CAN'T HIDE",
-				"RemberCantHide3": "YOUR UN-SECRET BALLOT. SO",
-				"RememberVoteWinner1": "REMEMBER...",
-				"RememberVoteWinner2": "TO VOTE FOR",
-				"RememberVoteWinner3": "THE WINNER"
+				"WrongChoice3": "MAUVAIS CHOIX",
+				"WrongChoice4": "MAUVAIS CHOIX",
+				"RemberCantHide1": "OUBLIS PAS...",
+				"RemberCantHide2": "TU PEUT PAS CACHER TON",
+				"RemberCantHide3": "SCRUTIN PAS SECRET. DONC,",
+				"RememberVoteWinner1": "OUBLIS PAS...",
+				"RememberVoteWinner2": "DE VOTER POUR",
+				"RememberVoteWinner3": "LE GAGNANT."
 			}
 		}
 	}
